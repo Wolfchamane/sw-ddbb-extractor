@@ -2,7 +2,7 @@
 
 > Extracts all information from [https://swapi.co/](https://swapi.co/)
 
-![1.0.0](https://img.shields.io/badge/Version-1.0.0-green.svg)
+![1.0.1](https://img.shields.io/badge/Version-1.0.1-green.svg)
 
 ## Requirements
 
