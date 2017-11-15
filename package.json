@@ -1,0 +1,25 @@
+{
+  "name": "sw-ddbb-extractor",
+  "version": "1.0.0",
+  "description": "Extracts all info from 'https://swapi.co/'",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "star",
+    "wars",
+    "api",
+    "ddbb",
+    "extractor"
+  ],
+  "author": "Arturo Martínez <arturo.martinez@wolfchamane.com>",
+  "homepage": "https://www.wolfchamane.com/software/sw-extractor-ddbb/",
+  "license": "GNU",
+  "private": true,
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "del": "^3.0.0",
+    "xhr2": "^0.1.4"
+  }
+}
